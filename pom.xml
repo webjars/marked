@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>marked</artifactId>
-    <version>0.3.2</version>
+    <version>0.3.3-SNAPSHOT</version>
     <name>marked</name>
     <description>WebJar for marked</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/marked</url>
         <connection>scm:git:https://github.com/webjars/marked.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/marked.git</developerConnection>
-        <tag>marked-0.3.2</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <properties>
